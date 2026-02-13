@@ -13,7 +13,6 @@ The purpose of this repository is to:
 - Understand backend concepts & server architecture
 - Build RESTful APIs
 - Work with databases
-- Implement authentication & authorization
 
 Each project inside this repository is independent feature or concept.
 
@@ -47,13 +46,9 @@ Each folder represents a **separate Node.js project**.
 - Middleware
 - REST API Development
 - CRUD Operations
-- MongoDB Integration
-- Mongoose Models & Schemas
-- Authentication & Authorization (JWT)
 - Environment Variables
 - Error Handling
 - MVC Architecture
-- Basic Security Best Practices
 
 ---
 
